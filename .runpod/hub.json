@@ -1,0 +1,10 @@
+{
+  "title": "Flux Generator",
+  "description": "Fast Flux.1-schnell image generator",
+  "type": "serverless",
+  "category": "image",
+  "config": {
+    "runOn": "GPU",
+    "containerDiskInGb": 20
+  }
+}
