@@ -1,0 +1,10 @@
+{
+  "tests": [
+    {
+      "name": "Validation",
+      "input": {
+        "prompt": "A sunset over the ocean"
+      }
+    }
+  ]
+}
